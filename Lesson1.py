@@ -1,0 +1,13 @@
+print("Hello, Cross. Welcome to Codingal")
+print("My favorite football player is Barry Sanders")
+print("I like playing video games and football")
+print(2+5)
+print(9-5)
+print(5 * 5)
+print(36/8)
+print("2+2= ",2+2)
+print(5+5)
+print("5"+"5")
+print(f"2+2={2+2} and 3+5={3+5}")
+#Today I learned about Python
+#print("hello")
